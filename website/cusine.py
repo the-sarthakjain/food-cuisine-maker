@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-df = pd.read_csv('C:/Users/Sarthak Jain/Desktop/flask_dev/indian_dishes_complete_dataset.csv')
+df = pd.read_csv('indian_dishes_complete_dataset.csv')
 
 # Preprocess ingredients
 df['Ingredients'] = df['Ingredients'].str.lower()
@@ -12,8 +12,6 @@ df['Label'] = df['Label'].str.lower()  # Ensure consistency in labels
 # Vectorize ingredients
 vectorizer = CountVectorizer(tokenizer=lambda x: x.split(', '))
 X = vectorizer.fit_transform(df['Ingredients'])
-
-print("Number of unique ingredients:", len(vectorizer.get_feature_names_out()))
 
 # Function to get recipe recommendations with diet filter
 def recommend_recipes(user_ingredients, diet_preference='any', top_n=5):
@@ -48,11 +46,3 @@ def recommend_recipes(user_ingredients, diet_preference='any', top_n=5):
             'Label': filtered_df.iloc[idx]['Label']
         })
     return results
-
-# Example usage
-user_ings = "bread, salt, butter, cheese"
-diet = "veg"  # or "non veg" or "any"
-recommended = recommend_recipes(user_ings, diet_preference=diet)
-
-for r in recommended:
-    print(r)

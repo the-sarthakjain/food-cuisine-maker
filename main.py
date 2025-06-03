@@ -2,11 +2,12 @@ from flask import Flask, render_template, request
 import pandas as pd
 from website.cusine import recommend_recipes  # Your recommendation function
 import re
+import os
 
 app = Flask(__name__, template_folder='templates')
 
 # Load the dataset once at startup
-df = pd.read_csv('C:/Users/Sarthak Jain/Desktop/flask_dev/indian_dishes_complete_dataset.csv')
+df = pd.read_csv('indian_dishes_complete_dataset.csv')
 
 # Extract unique ingredients from the dataset and sort them
 unique_ingredients = sorted(set(', '.join(df['Ingredients']).split(', ')))
@@ -36,8 +37,6 @@ def recommend():
     # Render the results page with the list of filtered recommended recipes
     return render_template("results.html", recipes=filtered_results)
 
-
-
 @app.route('/recipe/<recipe_name>')
 def recipe_detail(recipe_name):
     try:
@@ -60,4 +59,5 @@ def recipe_detail(recipe_name):
         return f"<h1>Recipe '{recipe_name}' not found.</h1>", 404
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
