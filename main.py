@@ -6,7 +6,7 @@ import re
 app = Flask(__name__, template_folder='templates')
 
 # Load the dataset once at startup
-df = pd.read_csv('C:/Users/Sarthak Jain/Downloads/indian_dishes_complete_dataset.csv')
+df = pd.read_csv('C:/Users/Sarthak Jain/Desktop/flask_dev/indian_dishes_complete_dataset.csv')
 
 # Extract unique ingredients from the dataset and sort them
 unique_ingredients = sorted(set(', '.join(df['Ingredients']).split(', ')))

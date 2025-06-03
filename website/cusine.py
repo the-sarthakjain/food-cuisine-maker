@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-df = pd.read_csv('C:/Users/Sarthak Jain/Downloads/indian_dishes_complete_dataset.csv')
+df = pd.read_csv('C:/Users/Sarthak Jain/Desktop/flask_dev/indian_dishes_complete_dataset.csv')
 
 # Preprocess ingredients
 df['Ingredients'] = df['Ingredients'].str.lower()
