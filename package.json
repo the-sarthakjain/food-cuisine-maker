@@ -1,0 +1,16 @@
+{
+  "name": "recipe-recommender",
+  "version": "1.0.0",
+  "description": "Smart recipe recommendation system",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "dev": "python main.py",
+    "build": "python main.py build"
+  },
+  "dependencies": {
+    "flask": "^3.0.0",
+    "pandas": "^2.2.3",
+    "scikit-learn": "^1.1.3"
+  }
+}
