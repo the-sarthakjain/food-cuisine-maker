@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommendations</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-1: #4E6688;
+            --color-2: #2A1B3D;
+            --color-3: #44318D;
+            --color-4: #E98074;
+            --color-5: #A4B3B6;
+            --text-light: #f0f0f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background-color: var(--color-2);
+            color: var(--text-light);
+            padding: 40px 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+            color: var(--color-4);
+        }
+
+        ul {
+            list-style-type: none;
+            max-width: 900px;
+            margin: auto;
+            padding: 0;
+        }
+
+        li {
+            background: var(--color-3);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+        }
+
+        li:hover {
+            transform: scale(1.02);
+        }
+
+        h3 {
+            color: var(--color-1);
+            margin-bottom: 10px;
+        }
+
+        h3 a {
+            color: var(--color-1);
+            text-decoration: none;
+        }
+
+        h3 a:hover {
+            text-decoration: underline;
+        }
+
+        p strong {
+            color: var(--color-5);
+        }
+
+        .back-link {
+            display: block;
+            width: 200px;
+            text-align: center;
+            margin: 40px auto;
+            background: var(--color-4);
+            color: var(--color-2);
+            padding: 12px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .back-link:hover {
+            background: var(--color-1);
+        }
+
+        .no-results {
+            text-align: center;
+            font-size: 1.2rem;
+            color: var(--color-5);
+        }
+    </style>
+</head>
+<body>
+    <h1>Recipe Recommendations</h1>
+
+    {% if recipes %}
+        <ul>
+            {% for recipe in recipes %}
+                <li>
+                    <h3><a href="{{ url_for('recipe_detail', recipe_name=recipe['Recipe']) }}">{{ recipe['Recipe'] }}</a></h3>
+                    <p><strong>Similarity:</strong> {{ recipe['Similarity'] }}</p>
+                    <p><strong>Missing Ingredients:</strong> {{ recipe['Missing_Ingredients'] | join(', ') }}</p>
+                    <p><strong>Diet:</strong> {{ recipe['Label'] }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p class="no-results">No recommendations found. Try different ingredients!</p>
+    {% endif %}
+
+    <a href="/" class="back-link">Back to Home</a>
+</body>
+</html>

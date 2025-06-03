@@ -1,0 +1,501 @@
+dish_name,ingredients,diet,category
+Zesty Salad,"chicken, potato",non-veg,"snack, breakfast"
+Sweet Stew,"cucumber, carrot, spinach, flour",veg,"breakfast, beverage, main course"
+Tangy Curry,"spinach, butter, paneer, lettuce, cucumber",veg,"beverage, snack"
+Zesty Curry,"cucumber, carrot, paneer",veg,"breakfast, dessert"
+Sweet Pasta,"fish, flour, spinach, onion",non-veg,"dessert, beverage, snack"
+Crispy Sandwich,"beef, egg, rice",non-veg,"main course, snack, dessert"
+Zesty Soup,"carrot, onion, paneer",veg,beverage
+Creamy Burger,"fish, paneer, tomato",non-veg,snack
+Crispy Burger,"beef, chicken, tomato, banana",non-veg,breakfast
+Smoky Soup,"chicken, lettuce",non-veg,"breakfast, dessert"
+Creamy Pasta,"flour, carrot, rice",veg,breakfast
+Crispy Rice,"banana, spinach, tomato, onion, carrot",veg,snack
+Crispy Sandwich,"egg, fish, banana, lettuce",non-veg,snack
+Zesty Pasta,"lettuce, banana, flour, rice, tomato",veg,"main course, beverage, dessert"
+Crispy Burger,"onion, rice, banana, paneer, lettuce",veg,"breakfast, dessert, beverage"
+Zesty Curry,"pork, rice",non-veg,"main course, breakfast, beverage"
+Tangy Soup,"mutton, fish, onion",non-veg,"main course, breakfast, dessert"
+Smoky Pasta,"mutton, egg, butter, potato",non-veg,main course
+Smoky Curry,"onion, carrot",veg,dessert
+Spicy Burger,"potato, lettuce",veg,"main course, breakfast, dessert"
+Smoky Salad,"egg, potato",non-veg,"beverage, snack, breakfast"
+Smoky Stew,"tomato, paneer",veg,"dessert, main course"
+Tangy Sandwich,"paneer, lettuce, rice, spinach, flour",veg,"main course, breakfast, dessert"
+Smoky Burger,"fish, beef, potato, flour, banana",non-veg,"main course, beverage, dessert"
+Smoky Soup,"butter, tomato, carrot",veg,dessert
+Tangy Curry,"onion, potato, tomato, lettuce, rice",veg,"breakfast, snack"
+Smoky Soup,"rice, carrot, tomato",veg,dessert
+Smoky Sandwich,"spinach, cucumber",veg,dessert
+Sweet Curry,"banana, carrot, flour, paneer, lettuce",veg,"snack, breakfast, dessert"
+Savory Rice,"chicken, egg, rice",non-veg,beverage
+Creamy Sandwich,"flour, banana",veg,"breakfast, snack"
+Creamy Burger,"fish, lettuce",non-veg,"dessert, main course"
+Spicy Soup,"chicken, onion, butter, carrot",non-veg,"main course, beverage"
+Spicy Soup,"rice, tomato, butter, onion, carrot",veg,"breakfast, dessert, beverage"
+Creamy Curry,"mutton, spinach, onion, carrot",non-veg,"breakfast, dessert, main course"
+Savory Pasta,"chicken, potato, rice, paneer",non-veg,breakfast
+Tangy Salad,"fish, lettuce, onion",non-veg,main course
+Smoky Rice,"beef, cucumber",non-veg,breakfast
+Smoky Pasta,"pork, fish, spinach, lettuce, potato",non-veg,breakfast
+Crispy Burger,"pork, mutton, spinach, tomato",non-veg,"breakfast, beverage"
+Crispy Curry,"carrot, onion, flour",veg,dessert
+Spicy Pasta,"cucumber, paneer, flour",veg,dessert
+Spicy Rice,"beef, pork, carrot, butter, rice",non-veg,"dessert, main course"
+Zesty Salad,"fish, pork, cucumber",non-veg,breakfast
+Zesty Stew,"paneer, rice, carrot, onion",veg,main course
+Zesty Salad,"lettuce, banana",veg,snack
+Sweet Sandwich,"lettuce, spinach",veg,beverage
+Zesty Soup,"fish, carrot, spinach",non-veg,main course
+Smoky Curry,"cucumber, carrot, rice, potato",veg,"dessert, main course"
+Savory Salad,"egg, lettuce, butter, rice",non-veg,breakfast
+Tangy Curry,"pork, spinach, rice, flour",non-veg,main course
+Savory Sandwich,"chicken, egg, flour, butter, potato",non-veg,"beverage, snack, main course"
+Zesty Soup,"pork, lettuce",non-veg,dessert
+Savory Burger,"beef, pork, lettuce",non-veg,"beverage, main course, dessert"
+Smoky Burger,"cucumber, banana, paneer, tomato",veg,"snack, main course"
+Zesty Pasta,"paneer, lettuce",veg,"dessert, beverage"
+Crispy Sandwich,"pork, egg, potato",non-veg,"main course, snack, beverage"
+Sweet Stew,"egg, lettuce",non-veg,"beverage, dessert, main course"
+Creamy Stew,"pork, cucumber, flour",non-veg,"snack, beverage, breakfast"
+Sweet Curry,"fish, beef, spinach",non-veg,"dessert, breakfast"
+Zesty Burger,"paneer, potato, flour, lettuce, tomato",veg,breakfast
+Tangy Rice,"cucumber, potato, lettuce",veg,"dessert, breakfast, snack"
+Crispy Curry,"onion, spinach, banana, rice",veg,"snack, breakfast"
+Creamy Burger,"flour, cucumber, potato, rice, butter",veg,dessert
+Savory Pasta,"egg, tomato, cucumber, banana",non-veg,breakfast
+Creamy Burger,"egg, pork, spinach, onion",non-veg,beverage
+Savory Burger,"spinach, lettuce, potato",veg,"dessert, main course, beverage"
+Tangy Burger,"rice, tomato",veg,"main course, beverage"
+Zesty Rice,"mutton, tomato, onion",non-veg,beverage
+Spicy Salad,"pork, lettuce",non-veg,"snack, dessert"
+Savory Stew,"carrot, cucumber, paneer",veg,breakfast
+Zesty Curry,"butter, carrot, spinach, banana, paneer",veg,"beverage, dessert"
+Spicy Salad,"carrot, rice, potato, spinach",veg,snack
+Smoky Sandwich,"beef, fish, paneer",non-veg,snack
+Spicy Curry,"carrot, lettuce",veg,breakfast
+Tangy Salad,"banana, rice, cucumber, lettuce, butter",veg,"beverage, main course, dessert"
+Smoky Stew,"lettuce, paneer, onion, cucumber, butter",veg,"dessert, breakfast, beverage"
+Zesty Curry,"chicken, egg, spinach, paneer, onion",non-veg,main course
+Crispy Curry,"spinach, butter, rice, potato, lettuce",veg,snack
+Sweet Soup,"mutton, egg, potato, butter, paneer",non-veg,"breakfast, dessert"
+Zesty Pasta,"potato, lettuce, butter, flour",veg,"snack, breakfast"
+Crispy Stew,"chicken, egg, onion, lettuce",non-veg,"main course, beverage, dessert"
+Smoky Curry,"mutton, pork, banana, carrot, onion",non-veg,"beverage, breakfast"
+Smoky Curry,"onion, tomato, banana, butter",veg,dessert
+Zesty Curry,"mutton, cucumber, banana",non-veg,main course
+Crispy Salad,"onion, flour, tomato",veg,"dessert, snack, breakfast"
+Zesty Pasta,"mutton, beef, tomato, flour",non-veg,beverage
+Tangy Soup,"egg, pork, spinach",non-veg,breakfast
+Crispy Salad,"pork, chicken, rice",non-veg,"beverage, breakfast, main course"
+Zesty Sandwich,"beef, egg, flour",non-veg,"main course, snack"
+Savory Sandwich,"egg, spinach",non-veg,"breakfast, dessert, snack"
+Creamy Curry,"beef, egg, potato",non-veg,"snack, breakfast"
+Sweet Rice,"carrot, rice, flour, onion",veg,snack
+Crispy Sandwich,"egg, butter, potato, banana",non-veg,"snack, main course"
+Zesty Curry,"potato, carrot, onion, cucumber, flour",veg,dessert
+Spicy Curry,"rice, carrot, spinach, tomato",veg,"main course, snack"
+Creamy Stew,"flour, onion, spinach, banana, tomato",veg,main course
+Zesty Rice,"chicken, beef, banana, tomato",non-veg,"main course, snack, dessert"
+Smoky Salad,"onion, tomato, cucumber, spinach",veg,"snack, breakfast, main course"
+Sweet Salad,"onion, flour, rice",veg,"snack, dessert"
+Creamy Soup,"tomato, paneer, carrot, onion, banana",veg,"main course, dessert, beverage"
+Smoky Stew,"egg, fish, paneer",non-veg,dessert
+Savory Pasta,"pork, banana, carrot, rice",non-veg,snack
+Zesty Rice,"lettuce, rice",veg,main course
+Savory Sandwich,"butter, flour, carrot, rice",veg,"snack, dessert, breakfast"
+Smoky Stew,"egg, fish, tomato",non-veg,snack
+Smoky Pasta,"spinach, butter, banana",veg,"main course, beverage, breakfast"
+Sweet Stew,"potato, onion",veg,"beverage, breakfast, dessert"
+Sweet Sandwich,"onion, cucumber, butter, potato, tomato",veg,breakfast
+Crispy Soup,"lettuce, flour, onion, butter",veg,breakfast
+Zesty Curry,"egg, chicken, carrot, flour",non-veg,"snack, dessert, beverage"
+Sweet Salad,"fish, chicken, butter",non-veg,beverage
+Sweet Curry,"flour, potato, tomato",veg,"main course, snack"
+Crispy Stew,"spinach, butter, rice",veg,"beverage, dessert"
+Sweet Stew,"potato, spinach",veg,"breakfast, snack"
+Smoky Soup,"fish, egg, rice",non-veg,"breakfast, beverage"
+Zesty Burger,"beef, pork, cucumber, tomato, paneer",non-veg,"main course, snack, breakfast"
+Savory Burger,"paneer, tomato, carrot, rice, lettuce",veg,"breakfast, snack"
+Zesty Pasta,"paneer, cucumber, onion",veg,main course
+Sweet Rice,"mutton, pork, cucumber",non-veg,"dessert, breakfast, snack"
+Spicy Burger,"chicken, beef, onion",non-veg,"breakfast, main course"
+Creamy Stew,"beef, chicken, spinach, tomato",non-veg,"snack, breakfast, dessert"
+Tangy Rice,"fish, lettuce, spinach",non-veg,"main course, snack, dessert"
+Tangy Rice,"lettuce, rice, butter, tomato, carrot",veg,"main course, dessert"
+Savory Soup,"mutton, egg, banana, carrot",non-veg,snack
+Crispy Salad,"mutton, flour, tomato",non-veg,snack
+Savory Salad,"rice, paneer",veg,"snack, main course, dessert"
+Creamy Salad,"paneer, carrot, spinach, banana",veg,"beverage, main course"
+Zesty Curry,"mutton, pork, lettuce, rice, onion",non-veg,"beverage, breakfast, snack"
+Crispy Stew,"spinach, paneer, cucumber, banana",veg,"dessert, main course"
+Sweet Rice,"banana, cucumber",veg,"beverage, breakfast, main course"
+Sweet Soup,"pork, butter, rice, lettuce",non-veg,"beverage, snack"
+Zesty Curry,"egg, fish, butter, banana",non-veg,dessert
+Tangy Curry,"lettuce, banana, cucumber, carrot, rice",veg,"snack, breakfast"
+Crispy Sandwich,"rice, paneer",veg,"beverage, dessert, snack"
+Sweet Soup,"beef, rice",non-veg,snack
+Sweet Burger,"flour, paneer, cucumber, banana, lettuce",veg,breakfast
+Creamy Curry,"flour, lettuce, cucumber, onion, potato",veg,"breakfast, beverage"
+Zesty Rice,"mutton, butter, carrot, spinach",non-veg,breakfast
+Savory Burger,"beef, tomato, banana",non-veg,"snack, breakfast"
+Creamy Sandwich,"chicken, pork, banana, carrot, potato",non-veg,"dessert, snack, breakfast"
+Smoky Curry,"tomato, butter, carrot, flour",veg,beverage
+Crispy Pasta,"onion, rice, banana, tomato, paneer",veg,"snack, beverage"
+Sweet Salad,"chicken, mutton, butter, banana",non-veg,"snack, dessert, breakfast"
+Savory Rice,"beef, lettuce, butter",non-veg,dessert
+Tangy Rice,"paneer, lettuce, butter, banana",veg,"snack, breakfast, beverage"
+Creamy Rice,"carrot, flour, banana",veg,"snack, breakfast, dessert"
+Zesty Burger,"beef, mutton, onion",non-veg,"beverage, snack"
+Sweet Curry,"paneer, rice",veg,"main course, breakfast, snack"
+Zesty Soup,"fish, carrot",non-veg,"snack, breakfast"
+Creamy Pasta,"beef, flour, carrot",non-veg,"dessert, beverage"
+Zesty Pasta,"fish, tomato, banana, onion",non-veg,"snack, dessert"
+Tangy Curry,"egg, spinach, carrot",non-veg,snack
+Sweet Salad,"beef, tomato",non-veg,beverage
+Smoky Curry,"spinach, onion, cucumber, paneer, tomato",veg,"breakfast, dessert"
+Crispy Burger,"banana, rice",veg,breakfast
+Zesty Soup,"potato, tomato",veg,"dessert, snack"
+Sweet Sandwich,"potato, onion, spinach, lettuce, banana",veg,"beverage, main course"
+Sweet Rice,"onion, lettuce, carrot",veg,dessert
+Sweet Curry,"potato, spinach, banana, butter",veg,"snack, dessert, breakfast"
+Crispy Curry,"rice, tomato, lettuce, potato, butter",veg,"breakfast, beverage"
+Savory Pasta,"tomato, onion, butter, banana, carrot",veg,"beverage, breakfast"
+Smoky Stew,"pork, mutton, banana, onion",non-veg,dessert
+Spicy Sandwich,"fish, rice, banana, flour",non-veg,"beverage, dessert, breakfast"
+Zesty Sandwich,"flour, banana",veg,"beverage, dessert, breakfast"
+Creamy Pasta,"tomato, carrot, onion",veg,"breakfast, dessert"
+Crispy Burger,"onion, cucumber, lettuce",veg,breakfast
+Smoky Salad,"lettuce, potato, carrot, tomato",veg,"breakfast, main course, snack"
+Creamy Soup,"rice, tomato, paneer",veg,beverage
+Tangy Soup,"pork, fish, onion",non-veg,"breakfast, beverage"
+Creamy Pasta,"mutton, rice, spinach, flour",non-veg,"dessert, snack, main course"
+Crispy Curry,"spinach, paneer, onion",veg,snack
+Zesty Pasta,"pork, fish, butter, tomato, paneer",non-veg,"breakfast, snack, dessert"
+Crispy Pasta,"mutton, beef, lettuce, potato",non-veg,dessert
+Spicy Salad,"flour, paneer",veg,snack
+Savory Rice,"potato, lettuce, spinach",veg,snack
+Sweet Sandwich,"carrot, flour, paneer, tomato",veg,"beverage, snack, breakfast"
+Creamy Curry,"carrot, paneer, potato",veg,beverage
+Zesty Burger,"egg, paneer, flour, rice",non-veg,breakfast
+Zesty Salad,"spinach, carrot, lettuce, flour",veg,"main course, dessert, snack"
+Creamy Salad,"fish, tomato, flour, spinach",non-veg,"dessert, beverage"
+Zesty Curry,"chicken, butter",non-veg,breakfast
+Zesty Pasta,"mutton, pork, rice, banana",non-veg,breakfast
+Smoky Soup,"pork, onion",non-veg,"dessert, breakfast"
+Spicy Burger,"chicken, cucumber, carrot",non-veg,dessert
+Savory Salad,"beef, chicken, rice, carrot",non-veg,main course
+Creamy Pasta,"potato, carrot, cucumber, banana",veg,dessert
+Savory Burger,"beef, pork, paneer, rice, butter",non-veg,snack
+Spicy Rice,"chicken, flour",non-veg,"main course, breakfast"
+Zesty Pasta,"pork, cucumber, butter, banana",non-veg,dessert
+Spicy Curry,"butter, cucumber, carrot, paneer, potato",veg,"beverage, main course"
+Spicy Sandwich,"potato, butter, cucumber",veg,"beverage, breakfast"
+Creamy Sandwich,"beef, carrot",non-veg,"main course, beverage, dessert"
+Tangy Burger,"egg, beef, carrot, lettuce, paneer",non-veg,"main course, beverage"
+Tangy Pasta,"beef, onion",non-veg,"main course, beverage, snack"
+Spicy Burger,"mutton, fish, tomato",non-veg,"snack, breakfast"
+Zesty Soup,"banana, flour, lettuce, cucumber",veg,"snack, main course, breakfast"
+Savory Salad,"cucumber, paneer, potato, tomato, flour",veg,main course
+Crispy Pasta,"mutton, rice, carrot",non-veg,beverage
+Smoky Soup,"egg, lettuce, banana, carrot",non-veg,"main course, beverage, snack"
+Smoky Curry,"onion, rice, cucumber, flour, spinach",veg,"snack, beverage"
+Crispy Salad,"egg, spinach, rice, potato",non-veg,beverage
+Creamy Sandwich,"fish, beef, rice, cucumber",non-veg,"beverage, snack"
+Smoky Stew,"butter, spinach, lettuce",veg,"dessert, snack"
+Crispy Stew,"pork, chicken, potato, spinach, rice",non-veg,beverage
+Smoky Sandwich,"butter, paneer",veg,"snack, main course"
+Savory Stew,"mutton, beef, cucumber, butter",non-veg,"snack, beverage"
+Tangy Pasta,"pork, paneer, rice, carrot",non-veg,"dessert, breakfast"
+Sweet Sandwich,"rice, spinach, banana, lettuce",veg,"main course, breakfast, beverage"
+Spicy Rice,"flour, butter, tomato, cucumber, paneer",veg,beverage
+Zesty Burger,"lettuce, rice",veg,"beverage, snack, main course"
+Smoky Soup,"rice, tomato",veg,"snack, beverage, dessert"
+Zesty Pasta,"mutton, pork, butter",non-veg,"breakfast, main course, dessert"
+Tangy Burger,"flour, spinach, cucumber, lettuce",veg,"snack, beverage, breakfast"
+Sweet Salad,"butter, tomato, potato",veg,"main course, dessert"
+Zesty Soup,"banana, lettuce, spinach",veg,breakfast
+Savory Salad,"fish, pork, carrot, flour",non-veg,"dessert, snack"
+Savory Rice,"mutton, paneer, butter, onion",non-veg,"snack, main course"
+Smoky Sandwich,"tomato, paneer, potato",veg,breakfast
+Zesty Rice,"mutton, fish, tomato, paneer",non-veg,"main course, dessert, snack"
+Smoky Rice,"rice, tomato",veg,"beverage, breakfast"
+Tangy Stew,"beef, mutton, paneer, rice",non-veg,"breakfast, main course"
+Zesty Pasta,"rice, carrot, paneer",veg,"dessert, breakfast, snack"
+Savory Salad,"carrot, lettuce",veg,"breakfast, main course"
+Creamy Salad,"chicken, mutton, tomato, lettuce",non-veg,"beverage, dessert, breakfast"
+Crispy Stew,"beef, butter, spinach, carrot",non-veg,beverage
+Sweet Pasta,"onion, potato, flour, cucumber, banana",veg,dessert
+Creamy Rice,"onion, lettuce, banana, paneer, tomato",veg,"snack, dessert"
+Spicy Soup,"egg, mutton, onion, potato, butter",non-veg,"main course, beverage, dessert"
+Smoky Sandwich,"lettuce, onion",veg,"dessert, snack, main course"
+Sweet Burger,"beef, lettuce, potato, carrot",non-veg,"snack, breakfast, main course"
+Savory Curry,"cucumber, spinach, paneer, butter",veg,beverage
+Creamy Curry,"beef, egg, rice, spinach, potato",non-veg,"dessert, beverage"
+Spicy Curry,"lettuce, paneer, cucumber",veg,"main course, beverage, dessert"
+Crispy Pasta,"egg, tomato, butter, spinach",non-veg,"breakfast, main course"
+Crispy Soup,"beef, fish, carrot, cucumber, potato",non-veg,"dessert, snack, beverage"
+Zesty Salad,"butter, lettuce, spinach",veg,"dessert, snack"
+Savory Pasta,"mutton, onion, banana, spinach",non-veg,"beverage, main course, dessert"
+Smoky Salad,"mutton, fish, onion, butter",non-veg,"breakfast, main course, dessert"
+Smoky Pasta,"egg, mutton, tomato",non-veg,breakfast
+Tangy Curry,"mutton, fish, spinach, banana, rice",non-veg,beverage
+Zesty Rice,"beef, flour, paneer",non-veg,"snack, beverage, main course"
+Sweet Burger,"carrot, onion, banana, butter",veg,"dessert, main course, snack"
+Creamy Pasta,"paneer, onion, flour",veg,snack
+Crispy Stew,"egg, pork, onion",non-veg,snack
+Savory Rice,"flour, tomato, butter, cucumber",veg,snack
+Tangy Sandwich,"paneer, butter",veg,main course
+Sweet Stew,"beef, pork, onion, flour, potato",non-veg,snack
+Spicy Pasta,"cucumber, tomato, paneer",veg,snack
+Zesty Soup,"cucumber, potato, spinach, carrot, flour",veg,"main course, beverage, snack"
+Spicy Rice,"beef, pork, carrot, banana",non-veg,"main course, beverage"
+Sweet Salad,"chicken, beef, potato",non-veg,dessert
+Tangy Pasta,"onion, rice, spinach",veg,"beverage, dessert"
+Zesty Burger,"chicken, egg, paneer, carrot",non-veg,snack
+Smoky Soup,"fish, potato, flour",non-veg,dessert
+Smoky Sandwich,"mutton, pork, butter, potato",non-veg,"main course, breakfast"
+Creamy Sandwich,"chicken, mutton, rice, butter",non-veg,"breakfast, main course"
+Spicy Burger,"pork, cucumber, spinach, lettuce",non-veg,snack
+Sweet Burger,"onion, potato, banana, paneer, butter",veg,snack
+Crispy Salad,"paneer, flour",veg,"beverage, snack"
+Sweet Pasta,"tomato, lettuce, cucumber",veg,snack
+Zesty Pasta,"mutton, spinach, rice, paneer",non-veg,"beverage, breakfast, main course"
+Zesty Rice,"egg, onion, cucumber, spinach",non-veg,beverage
+Sweet Rice,"paneer, spinach, cucumber, rice, banana",veg,main course
+Zesty Curry,"mutton, butter, onion",non-veg,"main course, dessert, beverage"
+Savory Soup,"fish, pork, tomato",non-veg,"snack, main course"
+Smoky Rice,"pork, fish, paneer, butter",non-veg,"beverage, main course, breakfast"
+Smoky Sandwich,"butter, paneer, potato, cucumber",veg,"main course, beverage, dessert"
+Tangy Soup,"carrot, flour, spinach, onion",veg,beverage
+Zesty Salad,"onion, potato, rice, lettuce",veg,"beverage, breakfast"
+Savory Sandwich,"potato, paneer",veg,beverage
+Tangy Rice,"paneer, potato",veg,snack
+Sweet Salad,"flour, paneer, rice",veg,"breakfast, main course, dessert"
+Creamy Soup,"spinach, banana",veg,dessert
+Crispy Curry,"banana, carrot, flour, butter",veg,"dessert, snack"
+Sweet Burger,"fish, carrot",non-veg,main course
+Tangy Rice,"carrot, tomato",veg,"breakfast, main course, beverage"
+Tangy Soup,"butter, rice, spinach, tomato",veg,snack
+Tangy Rice,"tomato, potato, onion",veg,main course
+Crispy Salad,"cucumber, potato, rice",veg,"main course, beverage, snack"
+Smoky Stew,"tomato, banana, lettuce",veg,beverage
+Crispy Stew,"rice, spinach, banana",veg,breakfast
+Savory Burger,"potato, lettuce, tomato, spinach",veg,"snack, dessert"
+Spicy Soup,"pork, flour, cucumber",non-veg,"beverage, main course"
+Zesty Stew,"beef, fish, cucumber",non-veg,"snack, dessert"
+Tangy Salad,"rice, lettuce",veg,"snack, beverage, main course"
+Tangy Sandwich,"carrot, potato, paneer, rice",veg,"snack, beverage, dessert"
+Creamy Burger,"carrot, paneer, flour, tomato, spinach",veg,"dessert, breakfast, beverage"
+Tangy Salad,"mutton, butter",non-veg,dessert
+Spicy Stew,"egg, chicken, tomato, flour",non-veg,"beverage, main course, snack"
+Crispy Burger,"egg, banana, lettuce",non-veg,"main course, beverage"
+Sweet Salad,"mutton, potato, rice, spinach",non-veg,breakfast
+Tangy Rice,"beef, fish, onion",non-veg,dessert
+Spicy Sandwich,"beef, lettuce, spinach, flour",non-veg,snack
+Sweet Rice,"carrot, onion",veg,"main course, beverage"
+Zesty Sandwich,"cucumber, banana",veg,main course
+Creamy Sandwich,"pork, butter",non-veg,"snack, dessert, main course"
+Zesty Stew,"paneer, cucumber, onion",veg,"dessert, main course"
+Sweet Curry,"spinach, banana",veg,"main course, breakfast"
+Creamy Stew,"paneer, rice, butter, cucumber, carrot",veg,"snack, main course, breakfast"
+Tangy Soup,"butter, onion, tomato, lettuce, cucumber",veg,snack
+Sweet Curry,"fish, mutton, paneer",non-veg,"dessert, main course, beverage"
+Creamy Salad,"beef, mutton, banana, lettuce",non-veg,"breakfast, main course"
+Sweet Curry,"onion, tomato, flour, spinach, carrot",veg,"snack, main course"
+Creamy Soup,"egg, mutton, cucumber, lettuce, butter",non-veg,"snack, beverage"
+Spicy Stew,"butter, flour, cucumber",veg,snack
+Spicy Burger,"mutton, chicken, paneer, carrot",non-veg,main course
+Crispy Stew,"fish, chicken, paneer",non-veg,"snack, beverage"
+Spicy Soup,"flour, spinach, potato",veg,main course
+Zesty Rice,"flour, potato, onion, rice",veg,snack
+Savory Salad,"rice, flour, lettuce, carrot",veg,"beverage, breakfast, dessert"
+Spicy Burger,"banana, butter, paneer",veg,"breakfast, dessert"
+Zesty Stew,"chicken, egg, carrot, paneer",non-veg,breakfast
+Tangy Burger,"beef, rice",non-veg,beverage
+Creamy Pasta,"mutton, pork, lettuce, potato",non-veg,breakfast
+Sweet Rice,"lettuce, paneer, onion, butter, rice",veg,breakfast
+Spicy Pasta,"banana, rice",veg,main course
+Crispy Stew,"butter, carrot",veg,"beverage, dessert"
+Zesty Curry,"mutton, rice",non-veg,"breakfast, dessert"
+Creamy Soup,"beef, fish, tomato, flour, onion",non-veg,"snack, breakfast"
+Zesty Curry,"pork, egg, paneer, banana",non-veg,beverage
+Sweet Rice,"beef, banana",non-veg,"breakfast, main course"
+Creamy Burger,"rice, spinach",veg,"breakfast, main course, beverage"
+Zesty Sandwich,"onion, potato, spinach, tomato",veg,"snack, dessert, breakfast"
+Tangy Pasta,"egg, fish, banana",non-veg,"beverage, dessert"
+Savory Stew,"paneer, spinach, onion, butter, banana",veg,main course
+Tangy Burger,"pork, fish, spinach, potato",non-veg,"snack, dessert, beverage"
+Zesty Curry,"fish, potato, spinach",non-veg,snack
+Crispy Soup,"beef, pork, paneer",non-veg,"dessert, breakfast, beverage"
+Crispy Rice,"fish, carrot, onion, butter",non-veg,"dessert, beverage"
+Spicy Rice,"chicken, cucumber",non-veg,snack
+Smoky Rice,"flour, tomato, carrot, butter, rice",veg,"breakfast, snack"
+Spicy Salad,"pork, egg, butter, onion",non-veg,dessert
+Crispy Salad,"mutton, beef, lettuce, butter, carrot",non-veg,snack
+Crispy Sandwich,"butter, rice",veg,"snack, beverage, dessert"
+Tangy Curry,"fish, banana, paneer",non-veg,beverage
+Smoky Rice,"egg, onion",non-veg,"main course, snack"
+Tangy Stew,"chicken, butter, carrot, lettuce",non-veg,"dessert, snack, main course"
+Zesty Sandwich,"mutton, chicken, carrot",non-veg,breakfast
+Sweet Rice,"beef, fish, flour, lettuce",non-veg,"breakfast, dessert, main course"
+Sweet Soup,"carrot, potato, tomato",veg,breakfast
+Smoky Rice,"onion, butter, paneer, cucumber, lettuce",veg,"main course, beverage, snack"
+Tangy Rice,"carrot, flour, paneer, onion",veg,"beverage, snack, dessert"
+Sweet Salad,"fish, onion, flour, potato",non-veg,beverage
+Zesty Curry,"paneer, cucumber, rice, tomato, lettuce",veg,dessert
+Sweet Salad,"potato, onion, banana",veg,"beverage, breakfast, snack"
+Creamy Salad,"banana, cucumber, carrot, tomato",veg,"dessert, snack, breakfast"
+Creamy Soup,"cucumber, banana, carrot, paneer",veg,dessert
+Crispy Burger,"pork, chicken, banana, potato, butter",non-veg,dessert
+Tangy Burger,"paneer, banana",veg,breakfast
+Savory Curry,"pork, potato, butter, cucumber",non-veg,"beverage, main course"
+Crispy Burger,"fish, mutton, rice",non-veg,"snack, main course, breakfast"
+Zesty Soup,"chicken, cucumber",non-veg,"beverage, snack"
+Smoky Rice,"chicken, pork, onion",non-veg,"breakfast, dessert"
+Smoky Pasta,"beef, mutton, cucumber, paneer, spinach",non-veg,"snack, dessert"
+Crispy Soup,"beef, paneer",non-veg,breakfast
+Zesty Curry,"egg, mutton, flour, lettuce, rice",non-veg,breakfast
+Tangy Soup,"cucumber, flour",veg,"beverage, snack, main course"
+Crispy Curry,"pork, fish, paneer",non-veg,"main course, breakfast"
+Creamy Burger,"butter, banana, potato, flour",veg,dessert
+Savory Sandwich,"pork, paneer",non-veg,"beverage, snack, breakfast"
+Crispy Sandwich,"potato, paneer, lettuce, butter",veg,"breakfast, dessert, snack"
+Smoky Curry,"carrot, lettuce, banana, tomato",veg,"snack, beverage, dessert"
+Smoky Burger,"lettuce, tomato, carrot",veg,beverage
+Zesty Pasta,"paneer, lettuce, rice",veg,beverage
+Creamy Salad,"lettuce, rice, tomato, flour, paneer",veg,main course
+Spicy Curry,"beef, mutton, lettuce",non-veg,"dessert, main course"
+Savory Pasta,"egg, tomato, rice, lettuce",non-veg,dessert
+Tangy Sandwich,"potato, butter, paneer, tomato",veg,"main course, snack, beverage"
+Smoky Rice,"pork, lettuce, carrot, potato",non-veg,"beverage, dessert"
+Sweet Soup,"chicken, beef, rice, tomato",non-veg,beverage
+Smoky Rice,"mutton, pork, potato, cucumber, spinach",non-veg,"main course, dessert, breakfast"
+Smoky Pasta,"paneer, carrot, onion",veg,beverage
+Savory Rice,"egg, fish, potato",non-veg,snack
+Tangy Burger,"fish, butter",non-veg,"dessert, snack, main course"
+Tangy Salad,"lettuce, paneer",veg,beverage
+Zesty Rice,"potato, banana, rice, flour, butter",veg,"snack, main course, breakfast"
+Zesty Rice,"mutton, tomato",non-veg,main course
+Tangy Curry,"pork, rice",non-veg,"dessert, main course, breakfast"
+Creamy Pasta,"pork, paneer",non-veg,"breakfast, dessert, beverage"
+Zesty Sandwich,"fish, lettuce, potato, flour",non-veg,"dessert, breakfast, main course"
+Crispy Rice,"mutton, butter, banana, rice",non-veg,"breakfast, main course, snack"
+Tangy Burger,"beef, pork, spinach, butter",non-veg,"main course, beverage, snack"
+Smoky Salad,"beef, pork, carrot, tomato",non-veg,"breakfast, dessert"
+Savory Burger,"paneer, cucumber",veg,main course
+Zesty Burger,"fish, carrot, cucumber",non-veg,"main course, snack, beverage"
+Tangy Salad,"carrot, cucumber, potato, flour",veg,"snack, main course"
+Creamy Pasta,"butter, tomato",veg,snack
+Creamy Rice,"carrot, butter",veg,beverage
+Crispy Burger,"beef, banana, carrot, flour",non-veg,beverage
+Savory Pasta,"beef, mutton, butter, lettuce, carrot",non-veg,main course
+Zesty Rice,"cucumber, rice, butter, onion",veg,"snack, beverage"
+Crispy Salad,"rice, onion, flour, banana",veg,breakfast
+Savory Curry,"chicken, onion, potato, paneer",non-veg,"dessert, breakfast, snack"
+Tangy Stew,"butter, banana",veg,dessert
+Creamy Pasta,"fish, tomato, rice",non-veg,"breakfast, main course, snack"
+Smoky Rice,"flour, butter, lettuce, cucumber",veg,snack
+Sweet Salad,"mutton, egg, flour",non-veg,"dessert, breakfast, beverage"
+Tangy Pasta,"rice, onion, spinach, potato",veg,"breakfast, main course, beverage"
+Zesty Curry,"onion, carrot",veg,"breakfast, beverage"
+Savory Stew,"rice, banana",veg,"main course, beverage"
+Spicy Curry,"beef, paneer",non-veg,"snack, dessert"
+Spicy Curry,"egg, mutton, onion",non-veg,breakfast
+Creamy Curry,"flour, tomato",veg,dessert
+Zesty Salad,"paneer, butter, spinach, carrot",veg,"beverage, main course"
+Creamy Salad,"mutton, chicken, onion, potato",non-veg,"breakfast, main course"
+Crispy Pasta,"lettuce, rice",veg,"breakfast, snack, beverage"
+Smoky Stew,"chicken, fish, potato, rice",non-veg,"breakfast, main course"
+Tangy Sandwich,"carrot, onion",veg,"beverage, breakfast, snack"
+Tangy Pasta,"butter, onion, potato",veg,"dessert, main course, snack"
+Smoky Curry,"cucumber, onion, butter, spinach, carrot",veg,dessert
+Spicy Stew,"pork, egg, tomato, rice, lettuce",non-veg,"main course, beverage"
+Savory Salad,"cucumber, rice, butter, paneer",veg,"dessert, main course"
+Creamy Pasta,"fish, mutton, rice",non-veg,breakfast
+Sweet Curry,"butter, spinach",veg,dessert
+Creamy Soup,"butter, lettuce, potato, onion",veg,snack
+Smoky Curry,"chicken, carrot, banana, cucumber",non-veg,"snack, dessert, main course"
+Zesty Rice,"flour, lettuce, banana",veg,"dessert, breakfast"
+Creamy Stew,"lettuce, potato, butter, banana, tomato",veg,"beverage, main course"
+Zesty Curry,"beef, rice, lettuce",non-veg,"beverage, snack, breakfast"
+Zesty Sandwich,"spinach, rice, carrot, flour",veg,"dessert, breakfast, snack"
+Creamy Pasta,"lettuce, spinach",veg,main course
+Smoky Stew,"cucumber, carrot, flour",veg,"dessert, snack"
+Zesty Sandwich,"egg, chicken, cucumber",non-veg,main course
+Creamy Pasta,"egg, lettuce",non-veg,"beverage, dessert, breakfast"
+Creamy Salad,"beef, paneer, lettuce, onion",non-veg,"beverage, main course, breakfast"
+Crispy Rice,"cucumber, flour, tomato",veg,"beverage, main course, dessert"
+Smoky Stew,"pork, fish, paneer, tomato",non-veg,beverage
+Smoky Soup,"cucumber, carrot, spinach, onion, flour",veg,"snack, dessert"
+Sweet Burger,"fish, rice",non-veg,"main course, breakfast"
+Tangy Stew,"egg, rice",non-veg,main course
+Smoky Sandwich,"beef, pork, onion, banana",non-veg,main course
+Zesty Burger,"beef, rice",non-veg,"main course, dessert, snack"
+Smoky Sandwich,"cucumber, lettuce, flour, carrot",veg,"snack, main course"
+Smoky Salad,"fish, mutton, banana, carrot, tomato",non-veg,"dessert, snack, beverage"
+Creamy Burger,"beef, egg, lettuce, paneer, flour",non-veg,"dessert, beverage, snack"
+Savory Soup,"butter, onion",veg,"beverage, dessert"
+Smoky Burger,"carrot, flour",veg,"dessert, breakfast"
+Tangy Sandwich,"egg, butter, potato",non-veg,breakfast
+Creamy Soup,"fish, pork, banana, spinach",non-veg,"main course, beverage"
+Savory Salad,"pork, mutton, rice, carrot, potato",non-veg,"dessert, main course"
+Sweet Burger,"cucumber, lettuce, banana, rice",veg,main course
+Smoky Stew,"paneer, carrot, cucumber, flour",veg,"beverage, breakfast, main course"
+Zesty Pasta,"banana, flour, rice, lettuce",veg,"main course, snack, dessert"
+Savory Stew,"tomato, rice, banana, lettuce",veg,main course
+Savory Pasta,"flour, rice, cucumber, butter, carrot",veg,"beverage, dessert"
+Tangy Soup,"lettuce, potato, banana, cucumber, rice",veg,"main course, beverage, snack"
+Savory Burger,"paneer, rice, banana",veg,main course
+Zesty Burger,"mutton, butter, potato, paneer",non-veg,"snack, beverage"
+Spicy Curry,"spinach, rice, onion",veg,dessert
+Zesty Pasta,"spinach, tomato, butter, onion, potato",veg,"breakfast, snack"
+Smoky Curry,"lettuce, carrot, potato, spinach",veg,main course
+Savory Curry,"pork, fish, rice, tomato, butter",non-veg,breakfast
+Creamy Pasta,"carrot, banana, butter, paneer, flour",veg,"breakfast, beverage, snack"
+Sweet Sandwich,"tomato, spinach, lettuce",veg,beverage
+Zesty Soup,"flour, rice",veg,main course
+Savory Curry,"chicken, rice, tomato, cucumber",non-veg,"snack, beverage, main course"
+Zesty Stew,"carrot, lettuce, paneer",veg,"main course, beverage"
+Sweet Salad,"cucumber, rice, flour, onion",veg,snack
+Savory Stew,"mutton, banana, potato",non-veg,"main course, beverage"
+Creamy Pasta,"rice, banana, paneer, flour",veg,"snack, main course, dessert"
+Smoky Stew,"carrot, paneer, spinach, banana, rice",veg,breakfast
+Creamy Soup,"beef, chicken, banana, lettuce, carrot",non-veg,"snack, main course"
+Savory Salad,"butter, flour, tomato, lettuce, spinach",veg,"breakfast, main course"
+Crispy Soup,"chicken, cucumber, lettuce",non-veg,"main course, dessert"
+Savory Rice,"beef, mutton, rice, banana, onion",non-veg,"snack, main course, dessert"
+Sweet Soup,"mutton, carrot, paneer, spinach",non-veg,snack
+Tangy Curry,"fish, paneer, spinach, banana",non-veg,"dessert, breakfast"
+Creamy Sandwich,"onion, cucumber, tomato",veg,snack
+Spicy Stew,"carrot, onion",veg,"snack, breakfast, beverage"
+Crispy Salad,"fish, paneer",non-veg,snack
+Tangy Curry,"mutton, fish, tomato, potato",non-veg,breakfast
+Spicy Soup,"banana, paneer, onion",veg,beverage
+Savory Sandwich,"carrot, rice, flour, spinach",veg,"main course, beverage, dessert"
+Sweet Salad,"fish, mutton, spinach",non-veg,"main course, breakfast"
+Sweet Pasta,"fish, tomato, rice",non-veg,breakfast
+Sweet Salad,"butter, onion, paneer, carrot",veg,breakfast
+Creamy Pasta,"chicken, mutton, paneer, onion, butter",non-veg,snack
+Zesty Burger,"cucumber, banana",veg,breakfast
+Creamy Burger,"onion, potato",veg,"dessert, beverage, breakfast"
+Creamy Burger,"butter, rice, cucumber, paneer, lettuce",veg,dessert
+Smoky Salad,"cucumber, flour, butter, potato",veg,"snack, beverage, dessert"
+Spicy Rice,"potato, paneer, cucumber, rice, spinach",veg,snack
+Tangy Sandwich,"egg, onion, cucumber",non-veg,"dessert, beverage, breakfast"
+Zesty Salad,"pork, beef, cucumber, paneer, flour",non-veg,"breakfast, dessert"
+Zesty Rice,"fish, chicken, rice",non-veg,"dessert, beverage"
+Zesty Stew,"beef, rice, butter, cucumber",non-veg,"breakfast, snack"
+Sweet Burger,"egg, onion",non-veg,"dessert, main course, snack"
+Crispy Stew,"lettuce, spinach, paneer",veg,"main course, dessert"
+Creamy Soup,"butter, potato, lettuce, banana, cucumber",veg,dessert
+Spicy Curry,"egg, fish, banana, tomato",non-veg,"dessert, main course"
+Spicy Curry,"banana, tomato",veg,"beverage, breakfast"
+Sweet Salad,"beef, butter",non-veg,beverage
+Zesty Stew,"spinach, paneer, cucumber, banana, potato",veg,breakfast
+Savory Stew,"pork, potato, onion, butter",non-veg,"main course, beverage"
+Savory Burger,"mutton, beef, rice",non-veg,"breakfast, dessert"
+Creamy Stew,"banana, carrot, butter",veg,"beverage, snack"
+Savory Pasta,"flour, tomato, spinach, onion",veg,beverage
+Creamy Pasta,"potato, onion",veg,"breakfast, dessert, main course"
+Creamy Rice,"paneer, cucumber",veg,dessert

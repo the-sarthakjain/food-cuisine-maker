@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe Recommender</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f0f2f5;
+            padding: 40px;
+            margin: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        }
+
+        input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        button {
+            padding: 10px 16px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #2980b9;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        li {
+            background: #f9f9f9;
+            padding: 10px;
+            margin-bottom: 8px;
+            border-radius: 6px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        select {
+            padding: 10px;
+            margin-top: 20px;
+            width: 100%;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        form {
+            margin-top: 30px;
+        }
+
+        .submit-btn {
+            margin-top: 20px;
+            width: 100%;
+            background: #2ecc71;
+        }
+
+        .submit-btn:hover {
+            background: #27ae60;
+        }
+    </style>
+    <script>
+      let ingredients = [];
+
+      function addIngredient() {
+          const input = document.getElementById("ingredient_input");
+          const value = input.value.trim();
+          if (value && !ingredients.includes(value.toLowerCase())) {
+              ingredients.push(value.toLowerCase());
+              input.value = "";
+              renderIngredients();
+          }
+      }
+
+      function removeIngredient(index) {
+          ingredients.splice(index, 1);
+          renderIngredients();
+      }
+
+      function renderIngredients() {
+          const list = document.getElementById("ingredient_list");
+          list.innerHTML = "";
+          ingredients.forEach((ing, i) => {
+              const li = document.createElement("li");
+              li.textContent = ing;
+              const btn = document.createElement("button");
+              btn.textContent = "Remove";
+              btn.type = "button";
+              btn.style.background = "#e74c3c";
+              btn.style.marginLeft = "10px";
+              btn.onclick = () => removeIngredient(i);
+              li.appendChild(btn);
+              list.appendChild(li);
+          });
+
+          document.getElementById("final_ingredients").value = ingredients.join(", ");
+      }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Ingredient Selector</h1>
+
+        <input id="ingredient_input" type="text" placeholder="Enter ingredient" />
+        <button type="button" onclick="addIngredient()">Add</button>
+
+        <ul id="ingredient_list"></ul>
+
+        <form action="/recommend" method="post">
+            <input type="hidden" name="final_ingredients" id="final_ingredients" value="" />
+
+            <label for="diet">Diet preference:</label>
+            <select name="diet" id="diet">
+                <option value="veg">Vegetarian</option>
+                <option value="non-veg">Non-Vegetarian</option>
+                <option value="vegan">Vegan</option>
+            </select>
+
+            <button type="submit" class="submit-btn">Get Recommendations</button>
+        </form>
+    </div>
+</body>
+</html>

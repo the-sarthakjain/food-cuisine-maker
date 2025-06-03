@@ -1,0 +1,501 @@
+Recipe_Name,Ingredients,Label
+Scrambled Eggs Variant 1,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 1,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 1,"bell pepper, broccoli, carrot, garlic, honey, milk, soy sauce",Veg
+Chicken Curry Variant 1,"chicken, garlic, oil, onion, spices, tomato",Non-Veg
+Pancakes Variant 1,"baking powder, egg, flour, lemon, milk, sugar, yogurt",Veg
+Grilled Cheese Sandwich Variant 1,"bread, butter, cheese",Veg
+Omelette Variant 1,"beef, eggs, grapes, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 1,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 1,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 1,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 1,"beef, butter, garlic, grapes, olive oil, pepper, salt",Non-Veg
+Caesar Salad Variant 1,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 1,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 1,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 1,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 1,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 1,"cheese, chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 1,"carrot, egg, oil, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 1,"ice, lemon, mango, milk, sugar",Veg
+Butter Naan Variant 1,"butter, flour, lemon, salt, yeast",Veg
+Scrambled Eggs Variant 2,"broccoli, butter, caesar dressing, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 2,"garlic, olive oil, pasta, peas, salt, tomato",Veg
+Vegetable Stir Fry Variant 2,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 2,"bell pepper, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 2,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 2,"bread, butter, cheese, yeast",Veg
+Omelette Variant 2,"eggs, onion, pepper, salt, tomato, yogurt",Non-Veg
+Fruit Salad Variant 2,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 2,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 2,"butter, grapes, milk, pepper, potato, salt",Veg
+Beef Steak Variant 2,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 2,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 2,"bread, cheese, lentils, lettuce, patty, tomato",Veg
+Fish Fry Variant 2,"fish, honey, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 2,"butter, cocoa powder, egg, flour, mango, sugar",Veg
+Dal Tadka Variant 2,"beef, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 2,"chicken, onion, parmesan, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 2,"butter, carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 2,"ice, mango, milk, peas, sugar",Veg
+Butter Naan Variant 2,"butter, croutons, flour, salt, yeast",Veg
+Scrambled Eggs Variant 3,"butter, eggs, lettuce, parmesan, pepper, salt",Non-Veg
+Tomato Pasta Variant 3,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 3,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 3,"bell pepper, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 3,"baking powder, croutons, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 3,"bread, butter, cheese, milk",Veg
+Omelette Variant 3,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 3,"apple, banana, cheese, grapes, honey, olive oil, orange",Veg
+Garlic Bread Variant 3,"apple, bread, butter, garlic, lentils, parsley",Veg
+Mashed Potatoes Variant 3,"butter, lentils, milk, pepper, potato, salt",Veg
+Beef Steak Variant 3,"beef, butter, garlic, mango, pepper, salt",Non-Veg
+Caesar Salad Variant 3,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 3,"bread, cheese, flour, lettuce, patty, tomato",Veg
+Fish Fry Variant 3,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 3,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 3,"baking powder, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 3,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 3,"carrot, egg, olive oil, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 3,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 3,"butter, flour, lettuce, salt, yeast",Veg
+Scrambled Eggs Variant 4,"butter, eggs, peas, pepper, salt, soy sauce",Non-Veg
+Tomato Pasta Variant 4,"garlic, olive oil, parmesan, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 4,"bell pepper, broccoli, caesar dressing, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 4,"chicken, garlic, honey, onion, spices, tomato",Non-Veg
+Pancakes Variant 4,"apple, baking powder, egg, flour, milk, oil, sugar",Veg
+Grilled Cheese Sandwich Variant 4,"apple, bread, butter, cheese",Veg
+Omelette Variant 4,"eggs, garlic, honey, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 4,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 4,"bread, butter, carrot, garlic, parsley",Veg
+Mashed Potatoes Variant 4,"butter, lentils, milk, pepper, potato, salt",Veg
+Beef Steak Variant 4,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 4,"caesar dressing, chicken, croutons, fish, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 4,"baking powder, bread, cheese, lettuce, orange, patty, tomato",Veg
+Fish Fry Variant 4,"fish, grapes, lemon, mango, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 4,"butter, cocoa powder, egg, flour, mango, sugar",Veg
+Dal Tadka Variant 4,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 4,"chicken, onion, peas, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 4,"banana, carrot, egg, onion, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 4,"ice, mango, milk, sugar, yeast",Veg
+Butter Naan Variant 4,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 5,"broccoli, butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 5,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 5,"bell pepper, broccoli, carrot, flour, garlic, soy sauce",Veg
+Chicken Curry Variant 5,"caesar dressing, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 5,"baking powder, banana, cheese, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 5,"baking powder, bread, butter, cheese, salt",Veg
+Omelette Variant 5,"croutons, eggs, mango, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 5,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 5,"bread, butter, garlic, milk, parsley",Veg
+Mashed Potatoes Variant 5,"butter, milk, onion, pepper, potato, salt",Veg
+Beef Steak Variant 5,"beef, butter, chicken, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 5,"beef, caesar dressing, chicken, croutons, lettuce, parmesan, tomato",Non-Veg
+Veggie Burger Variant 5,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 5,"fish, lemon, oil, olive oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 5,"broccoli, butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 5,"chicken, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 5,"apple, chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 5,"carrot, egg, lettuce, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 5,"broccoli, ice, mango, milk, onion, sugar",Veg
+Butter Naan Variant 5,"bell pepper, butter, flour, parsley, salt, yeast",Veg
+Scrambled Eggs Variant 6,"butter, croutons, eggs, garlic, pepper, salt",Non-Veg
+Tomato Pasta Variant 6,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 6,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 6,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 6,"baking powder, egg, flour, milk, potato, sugar",Veg
+Grilled Cheese Sandwich Variant 6,"bread, butter, cheese, grapes",Veg
+Omelette Variant 6,"apple, eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 6,"apple, banana, grapes, honey, orange, yogurt",Veg
+Garlic Bread Variant 6,"bread, butter, garlic, parsley, peas",Veg
+Mashed Potatoes Variant 6,"butter, croutons, fish, milk, pepper, potato, salt",Veg
+Beef Steak Variant 6,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 6,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 6,"bread, cheese, lettuce, parsley, patty, tomato",Veg
+Fish Fry Variant 6,"fish, garlic, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 6,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 6,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 6,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 6,"carrot, egg, flour, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 6,"butter, ice, mango, milk, sugar, yogurt",Veg
+Butter Naan Variant 6,"butter, croutons, flour, salt, yeast",Veg
+Scrambled Eggs Variant 7,"butter, eggs, olive oil, pepper, salt",Non-Veg
+Tomato Pasta Variant 7,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 7,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 7,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 7,"baking powder, egg, flour, milk, sugar, yogurt",Veg
+Grilled Cheese Sandwich Variant 7,"apple, bread, butter, cheese, soy sauce",Veg
+Omelette Variant 7,"eggs, lettuce, mango, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 7,"apple, banana, grapes, honey, lemon, orange",Veg
+Garlic Bread Variant 7,"bread, butter, flour, garlic, parsley",Veg
+Mashed Potatoes Variant 7,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 7,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 7,"butter, caesar dressing, chicken, croutons, lettuce, parmesan, rice",Non-Veg
+Veggie Burger Variant 7,"bread, cheese, lemon, lettuce, patty, tomato",Veg
+Fish Fry Variant 7,"fish, lemon, oil, pepper, salt, soy sauce",Non-Veg
+Chocolate Cake Variant 7,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 7,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 7,"chicken, olive oil, onion, parmesan, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 7,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 7,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 7,"butter, flour, honey, salt, yeast",Veg
+Scrambled Eggs Variant 8,"butter, eggs, pepper, salt, soy sauce, yogurt",Non-Veg
+Tomato Pasta Variant 8,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 8,"bell pepper, broccoli, carrot, garlic, potato, rice, soy sauce",Veg
+Chicken Curry Variant 8,"chicken, garlic, onion, orange, spices, tomato",Non-Veg
+Pancakes Variant 8,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 8,"bread, butter, cheese, croutons, potato",Veg
+Omelette Variant 8,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 8,"apple, banana, grapes, honey, lentils, orange, yeast",Veg
+Garlic Bread Variant 8,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 8,"butter, milk, pepper, potato, salt, tomato, yogurt",Veg
+Beef Steak Variant 8,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 8,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 8,"beef, bread, cheese, honey, lettuce, patty, tomato",Veg
+Fish Fry Variant 8,"baking powder, banana, fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 8,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 8,"fish, garlic, lentils, onion, pepper, spices, tomato",Veg
+Chicken Biryani Variant 8,"butter, chicken, croutons, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 8,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 8,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 8,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 9,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 9,"garlic, olive oil, orange, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 9,"bell pepper, broccoli, carrot, garlic, soy sauce, yogurt",Veg
+Chicken Curry Variant 9,"broccoli, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 9,"baking powder, egg, flour, milk, parsley, salt, sugar",Veg
+Grilled Cheese Sandwich Variant 9,"bread, butter, cheese",Veg
+Omelette Variant 9,"eggs, lentils, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 9,"apple, banana, grapes, honey, onion, orange",Veg
+Garlic Bread Variant 9,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 9,"butter, lentils, milk, pepper, potato, salt",Veg
+Beef Steak Variant 9,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 9,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 9,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 9,"bell pepper, fish, lemon, mango, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 9,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 9,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 9,"broccoli, chicken, mango, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 9,"carrot, egg, flour, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 9,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 9,"butter, flour, lettuce, salt, yeast",Veg
+Scrambled Eggs Variant 10,"butter, cheese, eggs, flour, pepper, salt",Non-Veg
+Tomato Pasta Variant 10,"garlic, lettuce, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 10,"bell pepper, broccoli, carrot, croutons, garlic, parsley, soy sauce",Veg
+Chicken Curry Variant 10,"chicken, garlic, lentils, onion, spices, tomato",Non-Veg
+Pancakes Variant 10,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 10,"bread, butter, cheese, lemon",Veg
+Omelette Variant 10,"eggs, onion, pepper, salt, sugar, tomato",Non-Veg
+Fruit Salad Variant 10,"apple, banana, caesar dressing, grapes, honey, mango, orange",Veg
+Garlic Bread Variant 10,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 10,"baking powder, butter, milk, pepper, potato, salt, sugar",Veg
+Beef Steak Variant 10,"beef, butter, caesar dressing, garlic, lettuce, pepper, salt",Non-Veg
+Caesar Salad Variant 10,"caesar dressing, cheese, chicken, croutons, flour, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 10,"bread, cheese, chicken, lettuce, milk, patty, tomato",Veg
+Fish Fry Variant 10,"apple, fish, honey, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 10,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 10,"banana, garlic, lentils, milk, onion, spices, tomato",Veg
+Chicken Biryani Variant 10,"broccoli, chicken, flour, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 10,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 10,"ice, lettuce, mango, milk, parmesan, sugar",Veg
+Butter Naan Variant 10,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 11,"butter, eggs, olive oil, pepper, salt",Non-Veg
+Tomato Pasta Variant 11,"garlic, olive oil, pasta, potato, salt, tomato, yogurt",Veg
+Vegetable Stir Fry Variant 11,"bell pepper, broccoli, carrot, garlic, pepper, soy sauce",Veg
+Chicken Curry Variant 11,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 11,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 11,"bread, butter, cheese",Veg
+Omelette Variant 11,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 11,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 11,"bread, butter, garlic, lentils, parsley",Veg
+Mashed Potatoes Variant 11,"butter, lettuce, milk, oil, pepper, potato, salt",Veg
+Beef Steak Variant 11,"beef, butter, garlic, pepper, potato, salt",Non-Veg
+Caesar Salad Variant 11,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 11,"bread, broccoli, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 11,"fish, lemon, lentils, oil, olive oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 11,"butter, cocoa powder, egg, flour, lentils, sugar",Veg
+Dal Tadka Variant 11,"garlic, lentils, lettuce, onion, soy sauce, spices, tomato",Veg
+Chicken Biryani Variant 11,"chicken, lettuce, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 11,"carrot, chicken, egg, onion, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 11,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 11,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 12,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 12,"garlic, olive oil, pasta, rice, salt, tomato",Veg
+Vegetable Stir Fry Variant 12,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 12,"chicken, garlic, lemon, onion, spices, tomato",Non-Veg
+Pancakes Variant 12,"baking powder, egg, flour, milk, oil, sugar",Veg
+Grilled Cheese Sandwich Variant 12,"bread, butter, cheese, garlic, tomato",Veg
+Omelette Variant 12,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 12,"apple, banana, fish, grapes, honey, orange, tomato",Veg
+Garlic Bread Variant 12,"bread, butter, garlic, lettuce, parsley, salt",Veg
+Mashed Potatoes Variant 12,"butter, carrot, milk, pepper, potato, salt",Veg
+Beef Steak Variant 12,"beef, butter, garlic, pepper, salt, yogurt",Non-Veg
+Caesar Salad Variant 12,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 12,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 12,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 12,"butter, caesar dressing, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 12,"carrot, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 12,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 12,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 12,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 12,"butter, flour, lettuce, salt, yeast",Veg
+Scrambled Eggs Variant 13,"butter, eggs, grapes, pepper, salt",Non-Veg
+Tomato Pasta Variant 13,"croutons, garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 13,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 13,"carrot, chicken, garlic, onion, spices, tomato, yeast",Non-Veg
+Pancakes Variant 13,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 13,"bread, butter, cheese",Veg
+Omelette Variant 13,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 13,"apple, banana, grapes, honey, oil, orange, sugar",Veg
+Garlic Bread Variant 13,"bread, butter, garlic, honey, olive oil, parsley",Veg
+Mashed Potatoes Variant 13,"butter, grapes, milk, pepper, potato, salt",Veg
+Beef Steak Variant 13,"baking powder, banana, beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 13,"caesar dressing, chicken, croutons, lettuce, parmesan, sugar",Non-Veg
+Veggie Burger Variant 13,"bread, butter, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 13,"fish, grapes, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 13,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 13,"garlic, grapes, lentils, onion, soy sauce, spices, tomato",Veg
+Chicken Biryani Variant 13,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 13,"carrot, egg, garlic, peas, rice, soy sauce, yeast",Veg
+Mango Smoothie Variant 13,"ice, lentils, mango, milk, sugar, yeast",Veg
+Butter Naan Variant 13,"butter, flour, oil, salt, yeast",Veg
+Scrambled Eggs Variant 14,"butter, eggs, fish, pepper, salt",Non-Veg
+Tomato Pasta Variant 14,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 14,"bell pepper, broccoli, carrot, garlic, lentils, peas, soy sauce",Veg
+Chicken Curry Variant 14,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 14,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 14,"bread, butter, cheese",Veg
+Omelette Variant 14,"eggs, milk, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 14,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 14,"bread, butter, garlic, onion, parsley, yogurt",Veg
+Mashed Potatoes Variant 14,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 14,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 14,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 14,"bread, cheese, grapes, lettuce, patty, tomato",Veg
+Fish Fry Variant 14,"fish, grapes, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 14,"butter, cocoa powder, egg, flour, lettuce, sugar",Veg
+Dal Tadka Variant 14,"carrot, croutons, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 14,"chicken, lentils, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 14,"carrot, egg, peas, rice, soy sauce, sugar",Veg
+Mango Smoothie Variant 14,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 14,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 15,"bell pepper, butter, eggs, mango, pepper, salt",Non-Veg
+Tomato Pasta Variant 15,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 15,"bell pepper, broccoli, butter, carrot, garlic, salt, soy sauce",Veg
+Chicken Curry Variant 15,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 15,"baking powder, egg, flour, lentils, milk, parsley, sugar",Veg
+Grilled Cheese Sandwich Variant 15,"baking powder, bread, butter, cheese",Veg
+Omelette Variant 15,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 15,"apple, banana, grapes, honey, orange, salt",Veg
+Garlic Bread Variant 15,"bread, butter, garlic, olive oil, onion, parsley",Veg
+Mashed Potatoes Variant 15,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 15,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 15,"broccoli, caesar dressing, carrot, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 15,"bread, cheese, lettuce, olive oil, patty, salt, tomato",Veg
+Fish Fry Variant 15,"butter, fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 15,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 15,"croutons, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 15,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 15,"butter, carrot, egg, peas, potato, rice, soy sauce",Veg
+Mango Smoothie Variant 15,"broccoli, butter, ice, mango, milk, sugar",Veg
+Butter Naan Variant 15,"butter, cheese, flour, salt, yeast",Veg
+Scrambled Eggs Variant 16,"butter, eggs, garlic, pepper, potato, salt",Non-Veg
+Tomato Pasta Variant 16,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 16,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 16,"chicken, garlic, onion, potato, spices, tomato",Non-Veg
+Pancakes Variant 16,"apple, baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 16,"bread, butter, cheese",Veg
+Omelette Variant 16,"cheese, eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 16,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 16,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 16,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 16,"beef, butter, cheese, garlic, pepper, rice, salt",Non-Veg
+Caesar Salad Variant 16,"caesar dressing, chicken, croutons, lettuce, mango, parmesan",Non-Veg
+Veggie Burger Variant 16,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 16,"fish, lemon, oil, orange, pepper, salt, yeast",Non-Veg
+Chocolate Cake Variant 16,"butter, cocoa powder, egg, flour, salt, sugar",Veg
+Dal Tadka Variant 16,"garlic, lentils, onion, potato, spices, tomato",Veg
+Chicken Biryani Variant 16,"chicken, oil, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 16,"carrot, egg, peas, rice, soy sauce, sugar",Veg
+Mango Smoothie Variant 16,"croutons, ice, mango, milk, sugar",Veg
+Butter Naan Variant 16,"butter, flour, salt, soy sauce, tomato, yeast",Veg
+Scrambled Eggs Variant 17,"butter, caesar dressing, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 17,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 17,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 17,"chicken, garlic, onion, parmesan, pepper, spices, tomato",Non-Veg
+Pancakes Variant 17,"baking powder, egg, flour, milk, oil, sugar",Veg
+Grilled Cheese Sandwich Variant 17,"bread, butter, cheese, sugar",Veg
+Omelette Variant 17,"beef, eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 17,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 17,"bread, butter, garlic, lemon, parsley",Veg
+Mashed Potatoes Variant 17,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 17,"beef, butter, garlic, oil, pepper, salt, soy sauce",Non-Veg
+Caesar Salad Variant 17,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 17,"bread, cheese, lemon, lettuce, parmesan, patty, tomato",Veg
+Fish Fry Variant 17,"baking powder, fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 17,"butter, caesar dressing, cocoa powder, egg, flour, parsley, sugar",Veg
+Dal Tadka Variant 17,"apple, chicken, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 17,"banana, chicken, oil, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 17,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 17,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 17,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 18,"baking powder, butter, eggs, pepper, salt, sugar",Non-Veg
+Tomato Pasta Variant 18,"garlic, grapes, olive oil, onion, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 18,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 18,"chicken, garlic, oil, onion, spices, tomato",Non-Veg
+Pancakes Variant 18,"apple, baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 18,"bread, butter, cheese",Veg
+Omelette Variant 18,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 18,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 18,"bread, butter, garlic, lentils, parmesan, parsley",Veg
+Mashed Potatoes Variant 18,"butter, lentils, milk, pepper, potato, salt",Veg
+Beef Steak Variant 18,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 18,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 18,"bread, cheese, lettuce, patty, soy sauce, tomato",Veg
+Fish Fry Variant 18,"fish, lemon, mango, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 18,"bell pepper, broccoli, butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 18,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 18,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 18,"beef, carrot, egg, milk, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 18,"ice, mango, milk, olive oil, sugar",Veg
+Butter Naan Variant 18,"butter, flour, garlic, salt, yeast",Veg
+Scrambled Eggs Variant 19,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 19,"cheese, garlic, lemon, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 19,"bell pepper, broccoli, carrot, garlic, milk, rice, soy sauce",Veg
+Chicken Curry Variant 19,"caesar dressing, chicken, garlic, onion, spices, sugar, tomato",Non-Veg
+Pancakes Variant 19,"baking powder, egg, flour, milk, onion, sugar",Veg
+Grilled Cheese Sandwich Variant 19,"bread, butter, cheese, lettuce",Veg
+Omelette Variant 19,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 19,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 19,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 19,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 19,"beef, butter, garlic, peas, pepper, salt, soy sauce",Non-Veg
+Caesar Salad Variant 19,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 19,"bread, cheese, chicken, lettuce, parmesan, patty, tomato",Veg
+Fish Fry Variant 19,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 19,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 19,"garlic, lentils, onion, spices, tomato, yeast",Veg
+Chicken Biryani Variant 19,"bell pepper, chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 19,"carrot, egg, lettuce, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 19,"chicken, croutons, ice, mango, milk, sugar",Veg
+Butter Naan Variant 19,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 20,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 20,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 20,"bell pepper, broccoli, carrot, garlic, olive oil, soy sauce",Veg
+Chicken Curry Variant 20,"chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 20,"baking powder, egg, flour, milk, oil, sugar",Veg
+Grilled Cheese Sandwich Variant 20,"bread, butter, cheese",Veg
+Omelette Variant 20,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 20,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 20,"bell pepper, bread, butter, garlic, parsley, salt",Veg
+Mashed Potatoes Variant 20,"butter, milk, parsley, pepper, potato, salt",Veg
+Beef Steak Variant 20,"banana, beef, butter, garlic, pepper, salt, sugar",Non-Veg
+Caesar Salad Variant 20,"bell pepper, caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 20,"baking powder, bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 20,"apple, fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 20,"beef, butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 20,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 20,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 20,"baking powder, carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 20,"grapes, ice, mango, milk, sugar",Veg
+Butter Naan Variant 20,"butter, flour, grapes, salt, yeast",Veg
+Scrambled Eggs Variant 21,"butter, chicken, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 21,"garlic, olive oil, orange, parsley, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 21,"bell pepper, broccoli, caesar dressing, carrot, garlic, lentils, soy sauce",Veg
+Chicken Curry Variant 21,"chicken, garlic, lemon, onion, salt, spices, tomato",Non-Veg
+Pancakes Variant 21,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 21,"bread, butter, cheese",Veg
+Omelette Variant 21,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 21,"apple, banana, grapes, honey, orange, salt",Veg
+Garlic Bread Variant 21,"bread, butter, garlic, orange, parsley, pepper",Veg
+Mashed Potatoes Variant 21,"butter, milk, pepper, potato, rice, salt",Veg
+Beef Steak Variant 21,"beef, butter, garlic, pepper, salt, yogurt",Non-Veg
+Caesar Salad Variant 21,"caesar dressing, chicken, croutons, lettuce, parmesan, parsley, salt",Non-Veg
+Veggie Burger Variant 21,"bread, cheese, lettuce, mango, oil, patty, tomato",Veg
+Fish Fry Variant 21,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 21,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 21,"garlic, lentils, onion, peas, spices, tomato",Veg
+Chicken Biryani Variant 21,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 21,"carrot, egg, lettuce, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 21,"banana, ice, mango, milk, sugar",Veg
+Butter Naan Variant 21,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 22,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 22,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 22,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 22,"caesar dressing, cheese, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 22,"baking powder, egg, flour, milk, salt, sugar",Veg
+Grilled Cheese Sandwich Variant 22,"bread, butter, cheese, onion",Veg
+Omelette Variant 22,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 22,"apple, banana, grapes, honey, orange",Veg
+Garlic Bread Variant 22,"bread, butter, chicken, garlic, oil, parsley",Veg
+Mashed Potatoes Variant 22,"butter, mango, milk, parsley, pepper, potato, salt",Veg
+Beef Steak Variant 22,"beef, butter, garlic, parmesan, pepper, salt, yogurt",Non-Veg
+Caesar Salad Variant 22,"caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 22,"bread, cheese, lettuce, patty, tomato",Veg
+Fish Fry Variant 22,"carrot, fish, lemon, oil, parsley, pepper, salt",Non-Veg
+Chocolate Cake Variant 22,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 22,"garlic, lentils, onion, spices, tomato, yeast",Veg
+Chicken Biryani Variant 22,"cheese, chicken, grapes, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 22,"carrot, egg, peas, potato, rice, soy sauce, tomato",Veg
+Mango Smoothie Variant 22,"broccoli, ice, mango, milk, sugar",Veg
+Butter Naan Variant 22,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 23,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 23,"broccoli, garlic, olive oil, pasta, salt, tomato, yeast",Veg
+Vegetable Stir Fry Variant 23,"bell pepper, broccoli, carrot, flour, garlic, soy sauce, sugar",Veg
+Chicken Curry Variant 23,"cheese, chicken, garlic, onion, pepper, spices, tomato",Non-Veg
+Pancakes Variant 23,"baking powder, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 23,"bread, butter, caesar dressing, cheese, onion",Veg
+Omelette Variant 23,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 23,"apple, banana, grapes, honey, olive oil, orange",Veg
+Garlic Bread Variant 23,"bread, butter, caesar dressing, garlic, parsley, sugar",Veg
+Mashed Potatoes Variant 23,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 23,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 23,"apple, baking powder, caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 23,"bread, carrot, cheese, lettuce, patty, pepper, tomato",Veg
+Fish Fry Variant 23,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 23,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 23,"bell pepper, garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 23,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 23,"carrot, croutons, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 23,"ice, mango, milk, sugar",Veg
+Butter Naan Variant 23,"butter, flour, salt, yeast",Veg
+Scrambled Eggs Variant 24,"butter, chicken, eggs, milk, pepper, salt",Non-Veg
+Tomato Pasta Variant 24,"apple, garlic, olive oil, pasta, salt, soy sauce, tomato",Veg
+Vegetable Stir Fry Variant 24,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 24,"beef, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 24,"baking powder, egg, flour, milk, onion, sugar",Veg
+Grilled Cheese Sandwich Variant 24,"bread, butter, cheese, orange, yogurt",Veg
+Omelette Variant 24,"eggs, onion, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 24,"apple, banana, carrot, grapes, honey, orange",Veg
+Garlic Bread Variant 24,"bell pepper, bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 24,"butter, milk, pepper, potato, salt",Veg
+Beef Steak Variant 24,"beef, butter, chicken, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 24,"caesar dressing, chicken, croutons, lettuce, parmesan, peas, potato",Non-Veg
+Veggie Burger Variant 24,"bread, cheese, lemon, lettuce, patty, tomato",Veg
+Fish Fry Variant 24,"apple, fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 24,"butter, carrot, cocoa powder, egg, flour, mango, sugar",Veg
+Dal Tadka Variant 24,"baking powder, garlic, lentils, mango, onion, spices, tomato",Veg
+Chicken Biryani Variant 24,"chicken, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 24,"carrot, chicken, egg, grapes, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 24,"broccoli, ice, mango, milk, sugar",Veg
+Butter Naan Variant 24,"butter, flour, lettuce, salt, tomato, yeast",Veg
+Scrambled Eggs Variant 25,"butter, eggs, pepper, salt",Non-Veg
+Tomato Pasta Variant 25,"garlic, olive oil, pasta, salt, tomato",Veg
+Vegetable Stir Fry Variant 25,"bell pepper, broccoli, carrot, garlic, soy sauce",Veg
+Chicken Curry Variant 25,"baking powder, chicken, garlic, onion, spices, tomato",Non-Veg
+Pancakes Variant 25,"baking powder, bell pepper, chicken, egg, flour, milk, sugar",Veg
+Grilled Cheese Sandwich Variant 25,"bread, butter, cheese",Veg
+Omelette Variant 25,"eggs, onion, parmesan, pepper, salt, tomato",Non-Veg
+Fruit Salad Variant 25,"apple, banana, grapes, honey, orange, tomato",Veg
+Garlic Bread Variant 25,"bread, butter, garlic, parsley",Veg
+Mashed Potatoes Variant 25,"butter, milk, pepper, potato, salt, soy sauce",Veg
+Beef Steak Variant 25,"beef, butter, garlic, pepper, salt",Non-Veg
+Caesar Salad Variant 25,"bell pepper, caesar dressing, chicken, croutons, lettuce, parmesan",Non-Veg
+Veggie Burger Variant 25,"bread, cheese, lettuce, patty, sugar, tomato",Veg
+Fish Fry Variant 25,"fish, lemon, oil, pepper, salt",Non-Veg
+Chocolate Cake Variant 25,"butter, cocoa powder, egg, flour, sugar",Veg
+Dal Tadka Variant 25,"garlic, lentils, onion, spices, tomato",Veg
+Chicken Biryani Variant 25,"chicken, mango, onion, rice, spices, yogurt",Non-Veg
+Veg Fried Rice Variant 25,"carrot, egg, peas, rice, soy sauce",Veg
+Mango Smoothie Variant 25,"carrot, ice, mango, milk, pepper, sugar",Veg
+Butter Naan Variant 25,"butter, flour, pepper, salt, yeast",Veg

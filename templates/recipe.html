@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ recipe.Recipe }}</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+  <style>
+    :root {
+      --color-1: #4E6688;
+      --color-2: #2A1B3D;
+      --color-3: #44318D;
+      --color-4: #E98074;
+      --color-5: #A4B3B6;
+      --color-6: #874976;
+      --color-7: black;
+      --text-light: #f0f0f0;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: var(--color-2);
+      color: var(--text-light);
+      line-height: 1.6;
+      min-height: 100vh;
+      padding-bottom: 2rem;
+    }
+
+    nav {
+      position: fixed;
+      width: 100%;
+      top: 0;
+      background: var(--color-1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 3rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      z-index: 1000;
+    }
+
+    nav div:first-child {
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: var(--color-5);
+    }
+
+    nav div:last-child a {
+      margin: 0 1.25rem;
+      text-decoration: none;
+      color: var(--color-5);
+      font-weight: 500;
+      transition: color 0.3s;
+      font-size: 1rem;
+    }
+
+    nav div:last-child a:hover {
+      color: var(--text-light);
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 6.5rem auto 3rem; /* Clear navbar space + bottom spacing */
+      padding: 1.5rem 3rem;
+      background-color: var(--color-6);
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.35);
+      color: var(--text-light);
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 1rem;
+      color: var(--color-4);
+      text-align: center;
+    }
+
+    h3 {
+      font-size: 1.6rem;
+      margin: 1.75rem 0 0.75rem;
+      color: var(--color-4);
+      border-bottom: 2px solid var(--color-4);
+      padding-bottom: 6px;
+    }
+
+    p, ul {
+      font-size: 1.1rem;
+      color: var(--text-light);
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      padding-left: 1.4rem;
+    }
+
+    li {
+      margin-bottom: 0.6rem;
+    }
+
+    .labels {
+      margin-top: 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+    }
+
+    .label, .category, .nutrition {
+      background-color: var(--color-5);
+      color: var(--color-2);
+      padding: 0.6rem 1.2rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      white-space: nowrap;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    .nutrition {
+      max-width: 600px;
+      margin: 0.8rem auto 0;
+      text-align: center;
+      font-weight: 400;
+      font-size: 1.1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div><strong>Smart Recipe</strong></div>
+    <div>
+      <a href="/">Home</a>
+      <a href="#ingredients">Ingredients</a>
+      <a href="#about">About</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h1>{{ recipe.Recipe }}</h1>
+
+    <h3>Ingredients:</h3>
+    <p>{{ recipe.Ingredients }}</p>
+
+    <h3>Instructions:</h3>
+    <ul>
+      {% for step in recipe.Instructions %}
+        <li>{{ step }}</li>
+      {% endfor %}
+    </ul>
+
+    <div class="labels">
+      <span class="label">Food Type: {{ recipe.Label }}</span>
+      <span class="category">Meal Type: {{ recipe.Category }}</span>
+    </div>
+
+    <h3>Nutrition Facts:</h3>
+    <p class="nutrition">{{ recipe.Nutrition }}</p>
+  </div>
+
+</body>
+</html>
